@@ -60,9 +60,6 @@ img {
   text-align: center;
   color: tomato;
 }
-/* #spinner{
-  display: none;
-} */
 
 @media (max-width: 767px) {
   .justify-content-around.align-items-center.mt-3.gallery-header.mb-2 {
